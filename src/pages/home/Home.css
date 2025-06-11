@@ -1,0 +1,17 @@
+.home h1{
+    color: blue;
+}
+
+.home{
+    margin: auto;
+    padding: 18px;
+    background-color: rgb(221, 220, 220);
+
+}
+
+.home button{
+    background-color: rgb(0, 94, 255);
+    color: white;
+    border: 0px solid;
+    border-radius: 5px;   
+}

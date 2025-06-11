@@ -1,0 +1,31 @@
+.contatos {
+  margin: 15px auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.contatos h2 {
+  color: #010101;
+  margin-bottom: 10px;
+}
+
+.contatod {
+  background-color: #f0f8ff; /* azul bem claro */
+  border: 1px solid #cce5ff; /* azul claro */
+  border-radius: 6px;
+  padding: 12px 16px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contatod a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contatod a:hover {
+  text-decoration: underline;
+}

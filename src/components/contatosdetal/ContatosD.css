@@ -1,0 +1,27 @@
+.contato
+
+.contato h2 {
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+.contatosD {
+  background-color: #f0f8ff; /* azul bem claro */
+  border: 1px solid #cce5ff; /* azul claro */
+  border-radius: 6px;
+  padding: 12px 16px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contatosD a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contatosD a:hover {
+  text-decoration: underline;
+}
